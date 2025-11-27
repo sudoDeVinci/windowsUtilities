@@ -1,0 +1,4 @@
+pywin32
+pygetwindow
+types-pywin32
+python-kasa
